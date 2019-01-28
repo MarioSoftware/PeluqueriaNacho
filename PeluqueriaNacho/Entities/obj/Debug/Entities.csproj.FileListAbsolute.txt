@@ -1,0 +1,10 @@
+C:\Software MARIO PEDERENRA\23_10_17\USERS\PeluqueriaNacho\Entities\bin\Debug\Entities.dll
+C:\Software MARIO PEDERENRA\23_10_17\USERS\PeluqueriaNacho\Entities\bin\Debug\Entities.pdb
+C:\Software MARIO PEDERENRA\23_10_17\USERS\PeluqueriaNacho\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Software MARIO PEDERENRA\23_10_17\USERS\PeluqueriaNacho\Entities\obj\Debug\Entities.dll
+C:\Software MARIO PEDERENRA\23_10_17\USERS\PeluqueriaNacho\Entities\obj\Debug\Entities.pdb
+C:\Users\MarioPedernera\documents\visual studio 2015\Projects\PeluqueriaNacho\Entities\bin\Debug\Entities.dll
+C:\Users\MarioPedernera\documents\visual studio 2015\Projects\PeluqueriaNacho\Entities\bin\Debug\Entities.pdb
+C:\Users\MarioPedernera\documents\visual studio 2015\Projects\PeluqueriaNacho\Entities\obj\Debug\Entities.dll
+C:\Users\MarioPedernera\documents\visual studio 2015\Projects\PeluqueriaNacho\Entities\obj\Debug\Entities.pdb
+C:\Users\MarioPedernera\documents\visual studio 2015\Projects\PeluqueriaNacho\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
