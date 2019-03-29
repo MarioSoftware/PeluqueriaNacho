@@ -76,7 +76,7 @@ namespace PeluqueriaNacho
             else if (comboBoxSearch.SelectedItem == "Todo")
             {
                
-                textBoxApellido.Visible = false;
+                textBoxApellido.Visible = false; 
                 textBoxNombre.Visible = false;
                 textBoxNombre.Visible = false;
                 textBoxApellido.Visible = false;
