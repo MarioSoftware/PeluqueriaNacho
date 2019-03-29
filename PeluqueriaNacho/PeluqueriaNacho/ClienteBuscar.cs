@@ -8,7 +8,7 @@ namespace PeluqueriaNacho
     public partial class ClienteBuscar : Form
     {
 
-
+//cambio de prueba
         public ClienteLite clienteLite { get; set; }
 
         public ClienteBuscar()
